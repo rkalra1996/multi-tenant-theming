@@ -166,7 +166,7 @@
                   ]
                },
                "cards":{  
-                  "rating":true,
+                  "rating":false,
                   "total-reviews":true,
                   "image":true,
                   "title":true,
