@@ -1,7 +1,7 @@
 {  
    "theme":[  
       {  
-         "id":2,
+         "id":1,
          "CustomizeOptions":{  
             "Home":{  
                "banner":{  
@@ -126,7 +126,7 @@
          }
       },
       {  
-         "id":1,
+         "id":2,
          "CustomizeOptions":{  
             "Home":{  
                "banner":{  
